@@ -108,8 +108,7 @@ python build.py
 ```
 
 ### Output
-- Executable in `dist` folder
-- Named `GammaWatermarkRemover`
+- Executable in `dist` folder named `GammaWatermarkRemover.exe`
 </details>
 
 ## 📦 Dependencies
