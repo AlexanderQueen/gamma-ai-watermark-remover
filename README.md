@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  Release Support: Windows 7, Windows 10, Windows 11
+  Release supports: <b>Windows 7, Windows 10, Windows 11.</b>
 </p>
 
 ## 🌟 Features
