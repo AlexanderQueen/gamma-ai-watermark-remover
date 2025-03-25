@@ -46,7 +46,7 @@ cd GammaWatermarkRemover
 #### 2. Create Virtual Environment
 
 <details open>
-<summary><strong>⊞ Windows Setup</strong></summary>
+<summary><strong>⊞  Windows Setup</strong></summary>
 
 ```batch
 # Create virtual environment
