@@ -15,6 +15,10 @@
   Effortlessly remove watermarks from Gamma AI generated PDFs with a sleek, user-friendly interface
 </p>
 
+<p align="center">
+  Release Support: Windows 7, Windows 10, Windows 11
+</p>
+
 ## 🌟 Features
 
 - 📄 **Drag and Drop Support**: Simple PDF file handling
