@@ -1,12 +1,15 @@
 <div align="center">
-    <img src="https://img.shields.io/badge/version-1.0.0-blueviolet" alt="Version">
+    <img src="https://img.shields.io/badge/python-3.8%2B-blue" alt="Python Version">
+    <img src="https://img.shields.io/badge/fitz-1.18%2B-green" alt="PyMuPDF Version">
+    <img src="https://img.shields.io/badge/PIL-9.0%2B-orange" alt="Pillow Version">
     <img src="https://img.shields.io/badge/status-active-success" alt="Status">
     <img src="https://img.shields.io/badge/platform-windows%20%7C%20linux-blue" alt="Platform">
+    <img src="https://img.shields.io/badge/version-1.0.0-blueviolet" alt="App Version">
 </div>
 
 <br />
 
-<h1 align="center">🔓 Gamma AI Watermark Remover</h1>
+<h1 align="center">💧✨ Gamma AI Watermark Remover ✨💧</h1>
 
 <p align="center">
   Effortlessly remove watermarks from Gamma AI generated PDFs with a sleek, user-friendly interface
