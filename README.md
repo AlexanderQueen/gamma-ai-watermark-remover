@@ -6,10 +6,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Gamma+AI+Watermark+Remover" alt="Project Banner">
-</div>
-
 <h1 align="center">🔓 Gamma AI Watermark Remover</h1>
 
 <p align="center">
@@ -138,8 +134,7 @@ python build.py
 
 ## 📜 License
 
-[Specify Your License Here]
-
+MIT License.
 ---
 
 <div align="center">
