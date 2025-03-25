@@ -140,5 +140,5 @@ MIT License.
 ---
 
 <div align="center">
-    <sub>Built with ❤️ for PDF enthusiasts</sub>
+    <sub><h1>Built with ❤️ for PDF enthusiasts</sub></h1>
 </div>
